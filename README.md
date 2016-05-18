@@ -5,7 +5,7 @@ Home: https://github.com/lukearno/static
 
 Package license: MIT License
 
-Feedstock license: BSD
+Feedstock license: BSD 3-Clause
 
 Summary: A really simple WSGI way to serve static (or mixed) content.
 
@@ -69,6 +69,7 @@ Terminology
 
 Current build status
 ====================
+
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/static-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/static-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/static-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/static-feedstock) 
 Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/static-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/static-feedstock/branch/master)

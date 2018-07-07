@@ -14,14 +14,15 @@ Summary: A really simple WSGI way to serve static (or mixed) content.
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/static-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/static-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/static-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/static-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/static-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/static-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/static-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/static-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/static/badges/version.svg)](https://anaconda.org/conda-forge/static)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/static/badges/downloads.svg)](https://anaconda.org/conda-forge/static)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-static-green.svg)](https://anaconda.org/conda-forge/static) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/static.svg)](https://anaconda.org/conda-forge/static) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/static.svg)](https://anaconda.org/conda-forge/static) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/static.svg)](https://anaconda.org/conda-forge/static) |
 
 Installing static
 =================

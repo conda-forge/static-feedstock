@@ -34,7 +34,7 @@ test:
 
 about:
     home: https://github.com/lukearno/static
-    license: MIT License
+    license: MIT
     summary: 'A really simple WSGI way to serve static (or mixed) content.'
 
 extra:
